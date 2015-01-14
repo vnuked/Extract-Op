@@ -1,0 +1,5 @@
+extractsc.py uses regular expression to Extract the shell code
+It uses objdump to dump the content and then extract th ops..
+
+This can be really Helpful during pentests ..
+Where do dont have waste your Time in doing this manually..
