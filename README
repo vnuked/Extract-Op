@@ -1,0 +1,4 @@
+Extracts Shell code from x86 elf file in linux
+Works Well buts sometimes fetches an unknown opcode..
+
+Still Undevelopement..
