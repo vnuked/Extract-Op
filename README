@@ -1,4 +1,9 @@
-Extracts Shell code from x86 elf file in linux
-Works Well buts sometimes fetches an unknown opcode..
+Tested on Python 2.7.3
+Will Work Well on Python 2.x
+Not Compatilbe With Python 3.x
 
-Still Undevelopement..
+Extracts Shell Code For x86 Elf Linux File...
+Works Well But Sometimes Extracts an unknown opcode
+
+Still UnderDevelopment
+
